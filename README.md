@@ -66,6 +66,20 @@ The project follows the complete data analytics workflow—from data cleaning an
 
 ---
 
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+
+![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+
+![License](https://img.shields.io/badge/License-MIT-red)
+
+</p>
+
+---
+
 # 📊 Project Workflow
 
 ```
